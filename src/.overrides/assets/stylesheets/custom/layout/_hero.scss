@@ -25,39 +25,112 @@
 // ----------------------------------------------------------------------------
 
 // Landing page container
-.mdx-container {
-  padding-top: px2rem(20px);
-  background:
-    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1123 258'><path d='M1124,2c0,0 0,256 0,256l-1125,0l0,-48c0,0 16,5 55,5c116,0 197,-92 325,-92c121,0 114,46 254,46c140,0 214,-167 572,-166Z' style='fill: hsla(0, 0%, 100%, 1)' /></svg>") no-repeat bottom,
-    linear-gradient(
-      to bottom,
-      var(--md-primary-fg-color),
-      hsla(280, 67%, 55%, 1) 99%,
-      var(--md-default-bg-color) 99%
-    );
 
-  // Adjust background for slate theme
-  [data-md-color-scheme="slate"] & {
-    background:
-      url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1123 258'><path d='M1124,2c0,0 0,256 0,256l-1125,0l0,-48c0,0 16,5 55,5c116,0 197,-92 325,-92c121,0 114,46 254,46c140,0 214,-167 572,-166Z' style='fill: hsla(232, 15%, 21%, 1)' /></svg>") no-repeat bottom,
-      linear-gradient(
-        to bottom,
-        var(--md-primary-fg-color),
-        hsla(280, 67%, 55%, 1) 99%,
-        var(--md-default-bg-color) 99%
-      );
+.background-container {
+  height: 100%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #fff8df;
+  border-radius: 20px;
+  background-color: #242424;
+  background-image: url('https://res.cloudinary.com/kibibyte/image/upload/v1691907134/dust-and-scratches-2_kghixj.png'), url('https://res.cloudinary.com/kibibyte/image/upload/v1691907049/dots_qbwrdx.svg');
+  background-position: 50% 50%, 50% 50%;
+  background-size: auto, auto;
+  background-repeat: repeat, repeat;
+  background-attachment: scroll, scroll;
+}
+
+.background-nb-container {
+  height: 100%;
+  background-color: #242424;
+  background-image: url('https://res.cloudinary.com/kibibyte/image/upload/v1691907134/dust-and-scratches-2_kghixj.png'), url('https://res.cloudinary.com/kibibyte/image/upload/v1691907049/dots_qbwrdx.svg');
+  background-position: 50% 50%, 50% 50%;
+  background-size: auto, auto;
+  background-repeat: repeat, repeat;
+  background-attachment: scroll, scroll;
+}
+
+.background-plain-container {
+  height: 100%;
+  opacity: 1;
+  border-radius: 20px;
+  background-color: rgba(36, 36, 36, .8);
+  background-size: auto, auto;
+  background-repeat: repeat, repeat;
+  background-attachment: scroll, scroll;
+}
+
+.background-hero-container {
+  height: 100%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgba(255, 248, 224,.5);
+  border-radius: 20px;
+  background-color: rgba(36, 36, 36, .8);
+  background-size: auto, auto;
+  background-repeat: repeat, repeat;
+  background-attachment: scroll, scroll;
+}
+
+
+.mdx-container {
+  position: relative;
+  padding-top: px2rem(20px);
+  font-family: 'Neontube';
+  // background:
+  //   url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1123 258'><path d='M1124,2c0,0 0,256 0,256l-1125,0l0,-48c0,0 16,5 55,5c116,0 197,-92 325,-92c121,0 114,46 254,46c140,0 214,-167 572,-166Z' style='fill: hsla(0, 0%, 100%, 1)' /></svg>") no-repeat bottom,
+  //   linear-gradient(
+  //     to bottom,
+  //     var(--md-primary-fg-color),
+  //     hsla(280, 67%, 55%, 1) 99%,
+  //     var(--md-default-bg-color) 99%
+  //   );
+
+  
+  // [data-md-color-scheme="slate"] & {
+  //   background:
+  //     url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1123 258'><path d='M1124,2c0,0 0,256 0,256l-1125,0l0,-48c0,0 16,5 55,5c116,0 197,-92 325,-92c121,0 114,46 254,46c140,0 214,-167 572,-166Z' style='fill: hsla(232, 15%, 21%, 1)' /></svg>") no-repeat bottom,
+  //     linear-gradient(
+  //       to bottom,
+  //       var(--md-primary-fg-color),
+  //       hsla(280, 67%, 55%, 1) 99%,
+  //       var(--md-default-bg-color) 99%
+  //     );
+  // }
+}
+
+.mdx-home {
+  
+  font-family: monospace;
+  line-height: 1.5;
+  font-size: 18px;
+  
+  p {
+    background-color: rgba(36, 36, 36, .8);
   }
+
+  a {
+    background-color: rgb(255, 248, 224);    
+    color: rgb(36, 36, 36);
+  }
+}
+
+.mdx-hero-contex {
+  border-color: #fff8df;
 }
 
 // Landing page hero
 .mdx-hero {
+  height: calc(100vh - 120px);
   margin: 0 px2rem(16px);
   color: var(--md-primary-bg-color);
 
   // Hero headline
   h1 {
     margin-bottom: px2rem(20px);
-    color: currentcolor;
+    color: rgb(255, 248, 224);
+    font-family: 'Neontube';
+    font-size: 90px;
     font-weight: 700;
 
     // [mobile portrait -]: Larger hero headline
@@ -69,36 +142,40 @@
   // Hero content
   &__content {
     padding-bottom: px2rem(120px);
+    font-family: 'AlterraDisplay';
+    color: rgb(255, 248, 224);
+    font-size: 16px;
+    line-height: 21px;
   }
 
-  // [tablet landscape +]: Columnar display
-  @include break-from-device(tablet landscape) {
-    display: flex;
-    align-items: stretch;
+  // // [tablet landscape +]: Columnar display
+  // @include break-from-device(tablet landscape) {
+  //   display: flex;
+  //   align-items: stretch;
 
-    // Adjust spacing and set dimensions
-    &__content {
-      max-width: px2rem(380px);
-      margin-top: px2rem(70px);
-      padding-bottom: 14vw;
-    }
+  //   // Adjust spacing and set dimensions
+  //   &__content {
+  //     max-width: px2rem(380px);
+  //     margin-top: px2rem(70px);
+  //     padding-bottom: 14vw;
+  //   }
 
-    // Hero image
-    &__image {
-      order: 1;
-      width: px2rem(760px);
-      transform: translateX(#{px2rem(80px)});
-    }
-  }
+  //   // Hero image
+  //   &__image {
+  //     order: 1;
+  //     width: px2rem(760px);
+  //     transform: translateX(#{px2rem(80px)});
+  //   }
+  // }
 
-  // [screen +]: Columnar display and adjusted spacing
-  @include break-from-device(screen) {
+  // // [screen +]: Columnar display and adjusted spacing
+  // @include break-from-device(screen) {
 
-    // Hero image
-    &__image {
-      transform: translateX(#{px2rem(160px)});
-    }
-  }
+  //   // Hero image
+  //   &__image {
+  //     transform: translateX(#{px2rem(160px)});
+  //   }
+  // }
 
   // Button
   .md-button {

@@ -184,9 +184,10 @@
     height: px2rem(48px);
     margin-inline-start: px2rem(20px);
     margin-inline-end: px2rem(8px);
-    font-size: px2rem(18px);
+    font-size: px2rem(28px);
     line-height: px2rem(48px);
-
+    font-family: 'Neontube';
+    color: rgb(255, 248, 224);
     // Header title in active state, i.e. page title is visible
     &--active .md-header__topic {
       z-index: -1;
