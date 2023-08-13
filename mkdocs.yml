@@ -57,6 +57,7 @@ theme:
     text: Inter
     code: Roboto Mono
   favicon: assets/favicon.png
+  logo: transparent.png
 
 # Plugins
 plugins:
@@ -82,7 +83,7 @@ extra:
     json: [.s2]
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: G-3HYT9Y4TBR
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/purplecandy

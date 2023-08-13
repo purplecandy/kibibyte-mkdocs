@@ -1,6 +1,6 @@
 ---
 template: home.html
-title: Material for MkDocs
+title: Solving niche problems
 ---
 
-Welcome to Material for MkDocs.
+Welcome to Kibibyte.
