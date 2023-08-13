@@ -238,7 +238,7 @@
   height: 100%;
   opacity: 1;
   border-radius: 20px;
-  background-color: rgba(36, 36, 36, 0.8);
+  background-color: rgb(36, 36, 36);
   background-size: auto, auto;
   background-repeat: repeat, repeat;
   background-attachment: scroll, scroll;
@@ -246,6 +246,7 @@
 
 .background-hero-container {
   height: 100%;
+  width: 100%;
   border-style: solid;
   border-width: 2px;
   border-color: rgba(255, 248, 224, 0.5);
@@ -257,9 +258,11 @@
 }
 
 .mdx-container {
-  position: relative;
-  padding-top: 1rem;
+  position: absolute;
+  padding-top: 3rem;
   font-family: "Neontube";
+  width: 100%;
+  height: calc(100% - 4.5rem);
 }
 
 .mdx-home {
@@ -280,7 +283,6 @@
 }
 
 .mdx-hero {
-  height: calc(100vh - 120px);
   margin: 0 0.8rem;
   color: var(--md-primary-bg-color);
 }
