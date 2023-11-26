@@ -3,25 +3,19 @@
 -#}
 {% extends "base.html" %}
 {% block extrahead %}
-  <link rel="stylesheet" href="{{ 'assets/stylesheets/custom.f7ec4df2.min.css' | url }}">
+<link rel="stylesheet" href="{{ 'assets/stylesheets/custom.css' | url }}">
 {% endblock %}
 {% block announce %}
-  For updates follow <strong>@squidfunk</strong> on
-  <a rel="me" href="https://fosstodon.org/@squidfunk">
-    <span class="twemoji mastodon">
-      {% include ".icons/fontawesome/brands/mastodon.svg" %}
-    </span>
-    <strong>Fosstodon</strong>
-  </a>
-  and
-  <a href="https://twitter.com/squidfunk">
-    <span class="twemoji twitter">
-      {% include ".icons/fontawesome/brands/twitter.svg" %}
-    </span>
-    <strong>Twitter</strong>
-  </a>
+Get in touch on <a href="mailto:nadeem@kibibyte.in"><b>@nadeem</b></a>
+or
+<a href="https://www.linkedin.com/in/mohammed-nadeem-siddique-39b800112/">
+  <span class="twemoji twitter">
+    {% include ".icons/fontawesome/brands/linkedin.svg" %}
+  </span>
+  <strong>LinkedIn</strong>
+</a>
 {% endblock %}
 {% block scripts %}
-  {{ super() }}
-  <script src="{{ 'assets/javascripts/custom.a678ee80.min.js' | url }}"></script>
+{{ super() }}
+<script src="{{ 'assets/javascripts/custom.js' | url }}"></script>
 {% endblock %}
