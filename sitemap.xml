@@ -2,327 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://kibibyte.in/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/alternatives/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/browser-support/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/creating-your-site/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/customization/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/getting-started/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/license/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/philosophy/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/publishing-your-site/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/upgrade/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/about/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kibibyte.in/blog/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/blog/posts/beginers-guide-on-securing-your-linux-server/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/2023/06/10/beginners-guide-on-securing-your-linux-server/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/blog/posts/building-a-news-letters-for-engineers/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/2022/05/15/building-a-newsletter-for-engineers-1/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/blog/posts/how-to-choose-the-right-database-for-your-project/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/2022/05/15/how-to-choose-the-right-database-for-your-project/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/blog/posts/how-to-install-postgress-on-server/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/2020/12/20/how-to-install-and-setup-postgresql-on-ubuntu-server/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/blog/posts/why-web-framework-benchmarks-are-misleading/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/2021/07/15/why-web-framework-benchmarks-are-misleading/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/changelog/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/archive/2023/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/contributing/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/archive/2022/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/contributing/reporting-a-bug/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/archive/2021/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/contributing/reporting-a-docs-issue/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/archive/2020/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/contributing/requesting-a-change/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/category/indie-hacking/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/faq/sponsoring/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/category/ideas/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/guides/creating-a-reproduction/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/category/databases/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/insiders/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/category/opinion/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/insiders/changelog/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/category/linux/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/insiders/getting-started/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/category/ubuntu/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kibibyte.in/reference/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/admonitions/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/annotations/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/buttons/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/code-blocks/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/content-tabs/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/data-tables/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/diagrams/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/footnotes/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/formatting/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/grids/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/icons-emojis/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/images/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/lists/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/math/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/reference/tooltips/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/adding-a-comment-system/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/adding-a-git-repository/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/building-an-optimized-site/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/building-for-offline-usage/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/changing-the-colors/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/changing-the-fonts/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/changing-the-language/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/changing-the-logo-and-icons/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/ensuring-data-privacy/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/setting-up-a-blog/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/setting-up-navigation/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/setting-up-site-analytics/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/setting-up-site-search/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/setting-up-social-cards/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/setting-up-tags/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/setting-up-the-footer/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/setting-up-the-header/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/setting-up-versioning/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/dependencies/image-processing/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/extensions/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/extensions/python-markdown-extensions/</loc>
-         <lastmod>2023-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/setup/extensions/python-markdown/</loc>
-         <lastmod>2023-08-13</lastmod>
+         <loc>https://kibibyte.in/blog/category/postgresql/</loc>
+         <lastmod>2023-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
