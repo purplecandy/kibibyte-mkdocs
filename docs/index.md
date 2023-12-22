@@ -1,5 +1,5 @@
 ---
-title: Solving niche problems
+title: Kibibyte - Solving niche problems
 # hide:
 #   - navigation
 #   - toc
@@ -13,7 +13,7 @@ title: Solving niche problems
 }
 </style>
 
-![Photo](https://res.cloudinary.com/kibibyte/image/upload/v1703280954/Avatar.png){ width=200px}
+![Photo](https://res.cloudinary.com/kibibyte/image/upload/v1703282001/Avatar-png.png){ width=200px}
 <b><h1>Greetings!</h1></b>
 
 ## I'm **Nadeem**, a **senior software engineer** <br/> based in Bangalore, India.
