@@ -7,9 +7,45 @@ title: Kibibyte - Solving niche problems
 
 <style>
   @media (min-width: 768px) {
-  .md-sidebar {
-    visibility: hidden;
+    .md-sidebar {
+      visibility: hidden;
+    }
   }
+
+.marquee {
+height: 25px;
+width: 100%;
+overflow: hidden;
+position: relative;
+	font-family: 'Helvetica Neue', Arial;
+	font-size: 18px;
+	letter-spacing: 3.3px;
+	font-weight: bold;
+}
+
+.marquee a {
+  color:black
+}
+
+
+.marquee div {
+display: block;
+width: 200%;
+height: 30px;
+background-color: #F1DF40;
+position: absolute;
+overflow: hidden;
+animation: marquee 5s linear infinite;
+}
+
+.marquee span {
+float: left;
+width: 50%;
+}
+
+@keyframes marquee {
+0% { right: 0; }
+100% { right: -100%; }
 }
 </style>
 
@@ -30,6 +66,16 @@ title: Kibibyte - Solving niche problems
 ###### _**Appreciate you swinging by. You're truly awesome**_.
 
 <hr>
+<div class="marquee">
+  <div>
+    <span><a href="https://purplecandy.github.io/kibibyte-pipboy/">Vault-Tec Approved! Explore the Wasteland in PIP-Boy Style. 🎮</a></span>
+    <span><a href="https://purplecandy.github.io/kibibyte-pipboy/">Attention, Vault Dweller! Prepare for a Retro-Futuristic Experience. 👾</a></span>
+    <span><a href="https://purplecandy.github.io/kibibyte-pipboy/">Radiation Warning: High Levels of Coolness Detected Ahead. 🌌</a></span>
+    <span><a href="https://purplecandy.github.io/kibibyte-pipboy/">Caps Not Required! Accessing PIP-Boy Mode... 🛠️</a></span>
+    <span><a href="https://purplecandy.github.io/kibibyte-pipboy/">Lone Wanderer, Ready for a Tech Adventure? PIP-Boy Mode Activating! 🧭</a></span>
+    <span><a href="https://purplecandy.github.io/kibibyte-pipboy/">Vault Overseer's Announcement: Engage in the PIP-Boy Experience. 💾</a></span>
+  </div>
+</div>
 
 ### In development
 
