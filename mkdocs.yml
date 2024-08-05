@@ -61,7 +61,11 @@ theme:
 
 # Plugins
 plugins:
-  - tags
+  - awesome-pages
+  - glightbox
+  - tags:
+      tags_name_property: Togs
+      tags_file: tags.md 
   - blog:
       enabled: true
       blog_dir: blog
@@ -146,6 +150,8 @@ nav:
   - Home: index.md
   - Blog:
     - blog/index.md
+  - Thoughts: 'tags/#thoughts'
+  - Garage: garage.md
       # - 2023:
       #     - blog/posts/building-a-news-letters-for-engineers.md
       #     - blog/posts/beginers-guide-on-securing-your-linux-server.md
