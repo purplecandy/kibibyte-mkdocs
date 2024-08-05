@@ -25,6 +25,7 @@
 # Dependencies
 node_modules
 __pycache__
+kenv
 venv
 .venv
 
