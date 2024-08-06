@@ -31,6 +31,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://kibibyte.in/blog/2024/08/06/cloudflare-has-made-it-too-easy-to-access-your-homelab-on-the-internet/</loc>
+         <lastmod>2024-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://kibibyte.in/blog/2024/08/05/depression-and-perception/</loc>
          <lastmod>2024-08-06</lastmod>
          <changefreq>daily</changefreq>
@@ -81,6 +86,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://kibibyte.in/blog/category/linux/</loc>
+         <lastmod>2024-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kibibyte.in/blog/category/homelabs/</loc>
+         <lastmod>2024-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://kibibyte.in/blog/category/thoughts/</loc>
          <lastmod>2024-08-06</lastmod>
          <changefreq>daily</changefreq>
@@ -102,11 +117,6 @@
     </url>
     <url>
          <loc>https://kibibyte.in/blog/category/opinion/</loc>
-         <lastmod>2024-08-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://kibibyte.in/blog/category/linux/</loc>
          <lastmod>2024-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
