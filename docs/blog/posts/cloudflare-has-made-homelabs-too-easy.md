@@ -9,11 +9,8 @@ categories:
   - Homelabs
 ---
 
-
-
-<!-- more -->
-
 I remember back in 2017 when I started running a homelab. It was so difficult to access it outside the local area network because I didn't have a static IP. Even if you managed to get a static IP from your ISP, they would put it behind a CGNAT or something that just breaks it. I had so many issues with uptime only because the routing was messed up.
+<!-- more -->
 
 Fast forward to 2024, we now have Cloudflare Tunnels and Zero Trust, making remote access and security much easier.
 
@@ -65,8 +62,7 @@ Here's a pic of setup:
     Locale: en_US.UTF-8
     ```
 
-
-Now, I have a lot of Linux distros for me and my friends to use! 😉
+It almost sounds like I'm promoting Cloudflare 😅, but they did a great job with a setup that requires minimal configuration to get started! Now, I have a variety of Linux distros for my friends and me to use! 😉
 
 
 [^1]: I'm writing this to share my recent experience with Cloudflare Tunnels and a note for myself in future.
