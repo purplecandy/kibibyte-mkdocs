@@ -7,6 +7,7 @@ description: >
 categories:
   - Linux
   - Homelabs
+comments: true
 ---
 
 I remember back in 2017 when I started running a homelab. It was so difficult to access it outside the local area network because I didn't have a static IP. Even if you managed to get a static IP from your ISP, they would put it behind a CGNAT or something that just breaks it. I had so many issues with uptime only because the routing was messed up.

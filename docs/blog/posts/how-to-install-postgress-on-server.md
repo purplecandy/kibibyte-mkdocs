@@ -8,6 +8,7 @@ categories:
   - Linux
   - Ubuntu
   - PostgreSQL
+comments: true
 ---
 
 Hey, this is a tutorial to keep a note for myself and others. After countless stupid tries, I think I have finally understood the right to install and set up the PostgreSQL database.

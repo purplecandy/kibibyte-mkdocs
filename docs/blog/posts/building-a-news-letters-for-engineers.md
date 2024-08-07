@@ -7,6 +7,7 @@ description: >
 categories:
   - Indie Hacking
   - Ideas
+comments: true
 ---
 
 ![Architecture diagram](https://res.cloudinary.com/kibibyte/image/upload/v1691933917/dc9e942c-605c-4325-b535-0c77d263ce27_qrbzjj.png)

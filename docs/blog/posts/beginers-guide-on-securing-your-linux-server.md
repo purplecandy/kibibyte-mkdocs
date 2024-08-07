@@ -5,8 +5,9 @@ title: Beginners guide on securing your linux server
 description: >
   Essential steps and best practices to ensure your server is secure and up to date
 categories:
-  - Indie Hacking
-  - Ideas
+  - Linux
+  - Homelab
+comments: true
 ---
 
 Will be looking into the essentials of securing a Linux server as part of my daily write-up of creating a Newsletter Service for Engineers.

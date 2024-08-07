@@ -6,6 +6,7 @@ description: >
   Key steps involved in choosing a database when building a project from scratch
 categories:
   - Databases
+comments: true
 ---
 
 Choosing the right database is one of the most important decisions you have to make when starting a new project. It should be the first building block when deciding on the tech stack.

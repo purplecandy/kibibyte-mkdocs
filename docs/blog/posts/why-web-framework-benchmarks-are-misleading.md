@@ -6,6 +6,7 @@ description: >
   Why web framework benchmarks are misleading
 categories:
   - Opinion
+commnets: true
 ---
 
 I'm tired of hearing these arguments about how X web framework is bad or it won't scale because they are at the bottom of benchmark rankings and why you shouldn't pick it for your project.

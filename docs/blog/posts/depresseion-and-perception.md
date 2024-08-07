@@ -8,6 +8,7 @@ categories:
   - Thoughts
 tags:
     - Thoughts
+comments: true
 ---
 These illustrations are abstract, but if you think about it enough, especially on difficult days, they reveal profound meanings:
 
