@@ -10,6 +10,8 @@ categories:
 comments: true
 ---
 
+![alt text](../../assets/images/random/xkcd-1513.png)
+
 When working with JavaScript, you might feel inclined to use an async function inside a Promise executor. While this may appear convenient, it is actually discouraged for several reasons. Doing so can lead to subtle bugs and potential memory leaks. Let's delve into why this practice is problematic.
 <!-- more -->
 
