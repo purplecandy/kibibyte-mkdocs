@@ -64,11 +64,11 @@ new Promise(function() {
 });
 ```
 
-In this translation, it’s clear that the error is inside another asynchronous callback, and since we aren't using the provided `resolve` and `reject` callbacks, the promise does not know what is happening inside the executor function.
+It’s clear that the error is inside another asynchronous callback, and since we aren't using the provided `resolve` and `reject` callbacks, the promise does not know what is happening inside the executor function.
 
 ### You may not need to `await` inside a `new Promise`
 
-It’s generally unnecessary to use `await` inside a `new Promise` constructor because promises are just chained callbacks. Once the initial promise is resolved, any other promises in the chain will get resolved. 
+It’s generally unnecessary to use `await` inside a `new Promise` constructor because they can be simply re-written as `async/await` function instead.
 
 Here’s an example of incorrect code:
 ```javascript hl_lines="11-13"
@@ -81,6 +81,7 @@ const foo = new Promise(async (resolve, reject) => {
     }
   });
 });
+
 
 const result = new Promise(async (resolve, reject) => {
   resolve(await foo);
@@ -100,36 +101,24 @@ const foo = new Promise((resolve, reject) => {
 });
 
 const result = Promise.resolve(foo);
+```
 
-// An async wait implementation
-const getFoo = async () => {
-    const result = await foo()
+Here’s an example of incorrect code:
+```javascript hl_lines="11-13"
+new Promise(async function() {
+    await delay()
+    throw new Error()
+});
+```
+
+
+The **correct** way to do this would be
+```javascript hl_lines="11 15" 
+
+async function doSomething() {
+  await delay()
+  throw new Error()
 }
-```
-
-In some cases, you might find it easier to use an async function as a Promise executor, especially when you need to introduce an artificial delay or handle asynchronous operations.
-
-Instead of using async directly in the Promise constructor, it’s better to refactor your code by separating the asynchronous logic into another function. This keeps your promises clean and avoids pitfalls associated with mixing async/await and Promise constructors.
-
-Example of **incorrect** code
-
-```javascript
-new Promise(async function(resolve) {
-    await delay(...);
-    resolve("Lorem Ipsum")
-});
-```
-
-Example of **correct** code
-
-```javascript
-new Promise((resolve) => {
-    async function delayedResolve(resolve) {
-        await delay(...);
-        resolve("Lorem Ipsum")
-    }
-    delayedResolve()
-});
 ```
 
 ### Conclusion
