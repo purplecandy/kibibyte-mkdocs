@@ -68,26 +68,29 @@ width: 50%;
 <hr>
 <div class="marquee">
   <div>
-    <span><a href="https://purplecandy.github.io/kibibyte-pipboy/">Vault-Tec Approved! Explore the Wasteland in PIP-Boy Style. 🎮</a></span>
-    <span><a href="https://purplecandy.github.io/kibibyte-pipboy/">Attention, Vault Dweller! Prepare for a Retro-Futuristic Experience. 👾</a></span>
-    <span><a href="https://purplecandy.github.io/kibibyte-pipboy/">Radiation Warning: High Levels of Coolness Detected Ahead. 🌌</a></span>
-    <span><a href="https://purplecandy.github.io/kibibyte-pipboy/">Caps Not Required! Accessing PIP-Boy Mode... 🛠️</a></span>
-    <span><a href="https://purplecandy.github.io/kibibyte-pipboy/">Lone Wanderer, Ready for a Tech Adventure? PIP-Boy Mode Activating! 🧭</a></span>
-    <span><a href="https://purplecandy.github.io/kibibyte-pipboy/">Vault Overseer's Announcement: Engage in the PIP-Boy Experience. 💾</a></span>
+    <span><a href="https://www.collector.dev">collector.dev is in beta — built with love, shipped with anxiety. 🚀</a></span>
+    <span><a href="https://www.collector.dev">New tab, who dis? Try collector.dev — your dev brain's launchpad. 🧠</a></span>
+    <span><a href="https://www.collector.dev">Tabs are temporary, collector.dev is forever. ✨</a></span>
+    <span><a href="https://www.collector.dev">Stop googling "UUID generator" — just use collector.dev. 🔁</a></span>
+    <span><a href="https://www.collector.dev">Console. Playground. Bookmarks. All in one tab. 🧰</a></span>
+    <span><a href="https://www.collector.dev">Zero distractions, just dev things — collector.dev is live. 💻</a></span>
+    <span><a href="https://www.collector.dev">A smarter new tab for devs who ship. Try collector.dev → 🔧</a></span>
+    <span><a href="https://www.collector.dev">Built by a dev who forgot to market it. You’re here early. 😅</a></span>
   </div>
 </div>
 
-### In development
+### Featured
 
-1. [Engineering Updates](https://engg-updates.com/) - newsletter for engineers
-2. [UntangledFi](https://untangledfi.com/) - e-book on managing finance for freshers
+[collector.dev](https://engg-updates.com/) - Launch faster, work better, and find what you need in seconds.
 
 ### Projects
 
-1. [Ural](https://github.com/purplecandy/ural) - screenshot organizer
-2. [Nano](https://github.com/purplecandy/nano) - robust state management library
-3. [Heron](https://play.google.com/store/apps/details?id=in.kibibyte.heron) - movie, series tracker and asset manager
-4. [PrivateTorrents]() - private torrent tracker - $1k MMR
+1. [Engineering Updates](https://engg-updates.com/) - newsletter for engineers
+3. [UntangledFi](https://untangledfi.com/) - e-book on managing finance for fr
+4. [Ural](https://github.com/purplecandy/ural) - screenshot organizer
+5. [Nano](https://github.com/purplecandy/nano) - robust state management library
+6. [Heron](https://play.google.com/store/apps/details?id=in.kibibyte.heron) - movie, series tracker and asset manager
+7. [PrivateTorrents]() - private torrent tracker - $1k MMR
 
 ### Experiments
 
