@@ -88,6 +88,6 @@ Going forward, I’m switching to an 80/20 cycle:
 - If feedback suggests friction, go back and improve the product
 - Then rotate again
 
-It's not glamorous, but this cycle is what I should’ve followed from day one. Live and learn.
+It's not glamorous, but let's see if it works.
 
 And if you’re reading this, do check out [collector.dev](https://www.collector.dev) — it’s in beta, evolving, and yours to try 🙂
